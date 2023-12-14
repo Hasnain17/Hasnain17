@@ -20,13 +20,16 @@ Presently Conjuring at TPL Maps:
 🔐 Guardian of Privacy & Security: Shielding users with powerful enchantments.
 Previous Quests:
 
-Tech Overlord at AppCake: Led Android quests, emphasizing problem-solving, beta testing, and SDK manoeuvres.
+Tech Overlord at AppCake: 
+
+Led Android quests, emphasizing problem-solving, beta testing, and SDK manoeuvres.
 Magic in the Clouds at AppCake: Hands-on experience in Android Framework, API Testing, Google Cloud Platform, and Cloud spells.
 Spellweaving at ISYSTECH Solutions: Contributed to Android magic, emphasizing REST APIs, Firebase, Kotlin, and additional powers like RxJava.
 Apprenticeship at NUML University: Crafted an Android potion for translating words and phrases using AI, mastering Machine Learning spells.
 Freelance Journey:
 
 🌐 Worked solo on enchanting projects, showcasing mastery in Core Java, Cloud Spells, Git incantations, and more.
+
 🔗 Skill Arsenal:
 
 Problem-Solving Incantations
