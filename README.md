@@ -1,79 +1,94 @@
-# 🚀 Innovative Android Alchemist 📱 | Code Conjurer | Mobile Sorcerer
+<div align="center">
 
-Greetings! 👋 I'm **Hasnain Altaf**, a passionate Android Developer weaving magic with code. Armed with expertise in Java, Kotlin, and Android, I'm on a mission to craft mesmerizing and user-centric mobile experiences.
+# 🚀 Hasnain Altaf
+### Android Alchemist 📱 | Code Conjurer | Mobile Sorcerer
+
+*Crafting mesmerizing, user-centric mobile experiences — one line of Kotlin at a time.*
+
+📍 Gothenburg, Sweden
+
+</div>
+
+---
+
+## 🔮 About Me
+
+I'm an **Android Developer with 5+ years of experience** turning ideas into polished, production-grade mobile applications. From geolocation and mapping systems to secure payment flows, I specialize in building Android apps that are fast, reliable, and genuinely enjoyable to use — powered by **Kotlin**, **Java**, and a healthy obsession with clean architecture.
 
 ---
 
 ## 🔧 Tech Arsenal
 
-- **Android Wizardry**
-- **Java, Kotlin Conjuring**
-- **Android Application Symphony**
-- **Enchanting Android SDK**
-- **Jetpack Sorcery**
-- **Mobile App Alchemy**
+| Category | Stack |
+|---|---|
+| **Languages** | Kotlin, Java, Python, C# |
+| **Mobile Dev** | Android SDK, Jetpack Compose, Flutter, Navigation Components |
+| **Architecture** | MVVM, MVI, Clean Architecture, Coroutines, Hilt/Dagger |
+| **Backend & APIs** | REST, GraphQL, Retrofit, Spring Boot, Postman |
+| **Databases** | MySQL, SQLite, Room |
+| **Cloud & Services** | Firebase, Azure Notification Hubs, Dropbox SDK |
+| **Security** | AES Encryption, SSL Pinning, Biometric Authentication |
+| **Geolocation** | GPS Tracking, Geofencing, Google Maps API, TPL Maps SDK |
+| **DevOps** | Git/GitHub, CI/CD, JUnit, Espresso |
 
 ---
 
 ## 🛠️ Chronicles of Creation
 
-### Presently Conjuring at **TPL Maps**:
+### 🪄 Currently Conjuring — **Mobile Application Engineer @ Graphicalli**
+*Feb 2025 – June 2026*
+- 🧩 Leading native and hybrid app development using **Jetpack Compose** and **Flutter** for cross-platform delivery
+- 🏗️ Driving **MVVM architecture** adoption for scalable, maintainable codebases
+- 🤝 Guiding the team on modern design patterns and secure coding standards
 
-- 🌍 **Location Maestro:** Crafting top-tier Android spells for Pakistan's navigation realm.
-- 📱 **Tech Sorcery:** Excelling in Android magic, Java, Kotlin, and other mystical arts.
-- 💡 **Innovation Sage:** Part of a magical culture pushing the boundaries of location-based sorcery.
-- 🔐 **Guardian of Privacy & Security:** Shielding users with powerful enchantments.
+### 🗺️ Android Developer (AM-1) @ **TPL Maps**
+*Sep 2023 – Jan 2025*
+- 🌍 Built navigation and location-based features for Pakistan's mapping ecosystem
+- 🔐 Implemented secure APIs, AES encryption, and biometric authentication
+- 📍 Delivered GPS tracking, geofencing, and mapping SDK integrations (Google Maps + TPL Maps)
 
-### Previous Quests:
+### ⚡ Android Developer @ **Appcake**
+*Nov 2022 – Sep 2023*
+- 📈 Boosted user retention by **25%** through app optimization and workflow improvements
+- 🧪 Integrated ARCore, Vuforia, Firebase, AdMob, and more — driving **30%** monetization growth
 
-- **Tech Overlord at AppCake:**
-  - Led Android quests, emphasizing problem-solving, beta testing, and SDK manoeuvres.
-  
-- **Magic in the Clouds at AppCake:**
-  - Hands-on experience in Android Framework, API Testing, Google Cloud Platform, and Cloud spells.
+### 🔥 Android Developer @ **Isystech Solutions**
+*Feb 2022 – Sep 2022*
+- 🚀 Shipped 6+ Android projects on the Play Store, growing engagement by **35%**
+- ⚙️ Managed API integrations with **99%** bug-free deployments
 
-- **Spellweaving at ISYSTECH Solutions:**
-  - Contributed to Android magic, emphasizing REST APIs, Firebase, Kotlin, and additional powers like RxJava.
-
-- **Apprenticeship at NUML University:**
-  - Crafted an Android potion for translating words and phrases using AI, mastering Machine Learning spells.
-
-### Freelance Journey:
-
-- 🌐 Worked solo on enchanting projects, showcasing mastery in Core Java, Cloud Spells, Git incantations, and more.
-
----
-
-## 🔗 Skill Arsenal
-
-- **Problem-Solving Incantations**
-- **Postman API Charms**
-- **Gitlab, Git Enchantments**
-- **JSON Conjuring**
-- **Google Material Design Elixirs**
-- **Project Management Alchemy**
-- **Dagger & Hilt Spellcasting**
-- **RxJava Potions**
-- **Firebase Enchantments**
-- **Android Jetpack Wizardry**
-- **UI/UX Alchemy**
-- **Kotlin Sorcery**
+### 🤖 Android Developer @ **NUML Research Center**
+*Aug 2021 – Mar 2022 (Remote, part-time)*
+- 🧠 Built an AI-powered translation app using Firebase ML Kit, achieving **95%+ accuracy**
+- 💾 Implemented offline-first architecture with Room (SQLite)
 
 ---
 
-Let's embark on a magical journey together! 🌟✨👨‍💻
+## ⚙️ Skill Arsenal
 
-#CodeWizard #AndroidSorcerer #MobileMagician
+`Problem-Solving` `Postman` `Git & Gerrit` `JSON` `Material Design` `Dagger & Hilt` `RxJava` `Firebase` `Jetpack` `UI/UX` `Kotlin` `Flutter`
 
 ---
 
-### Hasnain Altaf's GitHub Stats
+<div align="center">
+
+### 📊 GitHub Stats
 
 ![Hasnain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hasnain17&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasnain17&layout=compact&theme=radical)
+
+</div>
 
 ---
 
-### Reach me via
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/muhahasnainaltaf)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/hasnaingakhar/)
+<div align="center">
+
+### 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/muhammad-hasnain-altaf/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hasnainaltaf.m@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hasnain17)
+
+*Let's build something great together.* ✨
+
+</div>
