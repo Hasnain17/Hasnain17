@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Hasnain Altaf
+# 🚀 Muhammad Hasnain Altaf
 ### Android Alchemist 📱 | Code Conjurer | Mobile Sorcerer
 
 *Crafting mesmerizing, user-centric mobile experiences — one line of Kotlin at a time.*
@@ -75,7 +75,6 @@ I'm an **Android Developer with 5+ years of experience** turning ideas into poli
 ### 📊 GitHub Stats
 
 ![Hasnain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hasnain17&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasnain17&layout=compact&theme=radical)
 
 </div>
 
